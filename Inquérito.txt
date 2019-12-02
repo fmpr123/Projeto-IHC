@@ -1,0 +1,18 @@
+1 - Na escala apresentada como considera a aplicação na sua página principal? 
+1=simples 7=muito confuso
+2 - Sem a utilização da caixa de pesquisa como seria a procura do jogo desejado? 
+1=muito fácil 7=muito difícil
+3 - O que achou da quantidade de passos necessários para encontrar o jogo? 
+1=poucos 7=muitos
+4 - Na escala apresentada como considera a aplicação na sua página do jogo? 
+1=muito simples 7=muito confuso
+5 - Acha a quantidade de métodos de pagamento satisfatório? 
+1=Muito satisfatório 7=Pouco Satisfatório
+6 - Se não pode-se utilizar o cartão de débito/crédito para efetuar o pagamento, como seria efetuar o pagamento? 
+1=muito fácil 7=muito difícil
+7 - Na escala apresentada como considera a aplicação na sua biblioteca de jogos? 
+1=simples 7=muito confuso
+8 - Se não pode-se filtrar os jogos pelo nome, como considera que seria a procura do jogo dentro da biblioteca? 
+1=muito fácil 7=muito difícil
+9 - O que achou da quantidade de passos necessários para a instalação do software necessário para correr o jogo? 
+1=poucos 7=muitos

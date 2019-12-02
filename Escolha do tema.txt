@@ -1,0 +1,17 @@
+Tema: Steam
+Descrição: Plataforma de venda e utilização de jogos com componentes comunitários.
+Tipo: Aplicação
+----
+Tarefa:
+Procura de um jogo específico, compra, instalação e utilização do próprio.
+Jogo:
+The Witcher 3: Wild Hunt
+Darkest Dungeon
+----
+Inquérito:
+Interface intuitivo?Fácil de Navegar?Simples?
+Pesquisa?É facil de encontrar?
+Variedade de tipos de pagamentos
+Instalação rápida?Simples?Muitos cliques?
+Fácil de encontrar o jogo pretendido?Muitos cliques?
+UI ingame
